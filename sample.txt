@@ -1,5 +1,10 @@
-this is sample code for learning git.
-git comments i learnt today:
-git init
-git add 
-git commit
+This is sample code for learning git.
+<html>
+<head>
+<body>
+<h1> ok,go ahead with git learning.</h1>
+</body>
+</head>
+</html>
+
+
