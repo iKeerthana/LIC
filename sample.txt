@@ -1,1 +1,9 @@
-this is sample code for learning git
+This is sample code for learning git.
+<html>
+<head>
+<body>
+<h1> ok,go ahead with git learning.</h1>
+</body>
+</head>
+</html>
+
