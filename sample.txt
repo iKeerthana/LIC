@@ -1,1 +1,5 @@
-this is sample code for learning git
+this is sample code for learning git.
+git comments i learnt today:
+git init
+git add 
+git commit
